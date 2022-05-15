@@ -1,0 +1,29 @@
+{
+  "type" : "gradle",
+  "id" : "com.aaronwelborn:demo-jar:1.0-SNAPSHOT",
+  "repository" : "bmc-gradle-local",
+  "artifacts" : [ {
+    "type" : "jar",
+    "sha1" : "533c7befa84f664b1342477891c344eef7749026",
+    "sha256" : "fbef72c6f11785d7de155a0e244466874c72dc91f38b5401ac7ef0989221ca03",
+    "md5" : "c8fe20220d328efbf668214603c80f2a",
+    "name" : "demo-jar-1.0-SNAPSHOT.jar",
+    "path" : "com/aaronwelborn/demo-jar/1.0-SNAPSHOT/demo-jar-1.0-SNAPSHOT.jar"
+  }, {
+    "type" : "module",
+    "sha1" : "82a404f388b06fee5b834cec1407ea2968ab858c",
+    "sha256" : "952653de3ad9558e33b717bf3a1e27860f64dffc98835e9a1176c006c3fa82a8",
+    "md5" : "2226ef31bbf912f2b709a2f4d51524d3",
+    "name" : "demo-jar-1.0-SNAPSHOT.module",
+    "path" : "com/aaronwelborn/demo-jar/1.0-SNAPSHOT/demo-jar-1.0-SNAPSHOT.module"
+  }, {
+    "type" : "pom",
+    "sha1" : "c68ce4451b4edd5d512071866f016dac6889d218",
+    "sha256" : "71cb6bd13eaf9d7c488bd0f3ad8eacfb86507755b4dd980c1c8c0beca6603849",
+    "md5" : "ed0828a40ee334c988018a41619968c6",
+    "name" : "demo-jar-1.0-SNAPSHOT.pom",
+    "path" : "com/aaronwelborn/demo-jar/1.0-SNAPSHOT/demo-jar-1.0-SNAPSHOT.pom"
+  } ],
+  "excludedArtifacts" : [ ],
+  "dependencies" : [ ]
+}
